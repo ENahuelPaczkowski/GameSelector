@@ -141,7 +141,7 @@ public class Burbujas implements Actions {
             }
 
             if (elemento.isDerecha()) {
-                if (elemento.getXx() >= this.componente.getHeight() - diametro) {
+                if (elemento.getXx() >= this.componente.getWidth()- diametro) {
                     elemento.setIzquierda(true);
                     elemento.setDerecha(false);
                 } else {
@@ -155,7 +155,7 @@ public class Burbujas implements Actions {
 
             Burbuja actual = elementos.get(i);
 
-            for (int j = 0; j < elementos.size(); j++) {
+            for (int j = i + 1; j < elementos.size(); j++) {
 
                 Burbuja objetivo = elementos.get(j);
 
