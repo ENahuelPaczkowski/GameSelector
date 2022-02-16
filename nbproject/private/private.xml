@@ -5,12 +5,9 @@
         <group>
             <file>file:/C:/Users/Nahuel/Documents/NetBeansProjects/GameSelector/src/udemy/poo/game/GameModelNave.java</file>
             <file>file:/C:/Users/Nahuel/Documents/NetBeansProjects/GameSelector/src/udemy/poo/inicio/Inicio.java</file>
-            <file>file:/C:/Users/Nahuel/Documents/NetBeansProjects/GameSelector/src/udemy/poo/pantalla/Pantalla.java</file>
             <file>file:/C:/Users/Nahuel/Documents/NetBeansProjects/GameSelector/src/udemy/poo/modelo/Burbuja.java</file>
-            <file>file:/C:/Users/Nahuel/Documents/NetBeansProjects/GameSelector/src/udemy/poo/elementos/ImagenFondoGameN.java</file>
             <file>file:/C:/Users/Nahuel/Documents/NetBeansProjects/GameSelector/src/udemy/poo/elementos/Burbujas.java</file>
-            <file>file:/C:/Users/Nahuel/Documents/NetBeansProjects/GameSelector/src/udemy/poo/elementos/ImagenFondoGaming.java</file>
-            <file>file:/C:/Users/Nahuel/Documents/NetBeansProjects/GameSelector/src/udemy/poo/elementos/ImagenFondo.java</file>
+            <file>file:/C:/Users/Nahuel/Documents/NetBeansProjects/GameSelector/src/udemy/poo/elementos/Nave.java</file>
         </group>
     </open-files>
 </project-private>
